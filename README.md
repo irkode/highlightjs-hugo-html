@@ -53,7 +53,7 @@ The module has not been published to any CDN right now. just download it from th
 
 ### With Node or another build system
 
-> The Node stuff is untested
+> The Node stuff is untested !!!
 
 If you're using Node / Webpack / Rollup / Browserify, etc, simply require the language module, then register it with
 `highlight.js`.
@@ -111,8 +111,9 @@ This package is released under the MIT License. See [LICENSE](LICENSE) file for 
 - Irkode <irkode@rikode.de>
 
 ## Links
+
 - [hugo-html][] (this module)
-- [hugo-text][] (this module)
+- [hugo-text][] (other module)
 
 ### Other references
 
